@@ -1,2 +1,1 @@
-React For Beginners
-- Wes Bos
+Wes Bos React For Beginners
